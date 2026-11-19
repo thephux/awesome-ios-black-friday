@@ -43,6 +43,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Pretty Progress](https://prettyprogress.app/download) | iOS | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
+| [Meanwhile: Couple & BFF Widget](https://apps.apple.com/app/id6817204524) | iOS | Share a photo each hour that lands on your partner's or best friend's home screen widget, with no feed and no ads. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 **Up to 84% OFF first year of Pro** · $49.99 → from $7.99 · no code (Early Supporter launch offer for new subscribers while spots last: tap "Want to be an early supporter?" on the plans screen) | until Dec 31 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -97,6 +98,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Sleep Songs](https://apps.apple.com/us/app/sleep-songs/id481128551) | iOS, iPadOS, macOS | 12 calm, looping songs with playlists and a sleep timer. | 💸 ♾️ **80% OFF** · $4.99 → $0.99 · no code | Nov 26 – Nov 30 |
 | [Sleep Sounds](https://apps.apple.com/us/app/sleep-sounds/id390555459) | iOS, iPadOS, macOS | Mix 36 looping nature sounds, each at its own volume, with a sleep timer. | 💸 ♾️ **80% OFF** · $4.99 → $0.99 · no code | Nov 26 – Nov 30 |
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | iOS, watchOS | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple. | ♾️ **40% OFF Lifetime** · $39.99 → $23.99 · code `BFCM26` | Nov 2 – Dec 1 |
+| [Nutrify - AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iOS | Calorie and macro tracker: snap a photo of a meal to log its calories and macros. | 💸 ♾️ **60% OFF first year of Yearly** · $49.99 → $19.99 · Lifetime $99 → $79 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
+| [Nomu - Intermittent Fasting](https://apps.apple.com/app/id6759592087) | iOS, watchOS | Fasting timer for 16:8, 18:6, OMAD and extended fasts, started with one tap. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 ♾️ **57% OFF first year of Yearly** · $29.99 → $12.99 · Lifetime $49.99 → $29.99 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
