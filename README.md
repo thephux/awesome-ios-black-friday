@@ -161,6 +161,10 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Ubidrop](https://www.ubidrop.com/pricing) | macOS | AirDrop between Mac, Android and iPhone. | 💸 ♾️ **60% OFF** · $29 → $11.60 · code `BLACKFRIDAY2026` | until Dec 1 |
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | macOS, Windows, Linux | Mac-compatible AI-assisted exploit-development framework with 46,000+ exploits and debugger integration. | ♾️ **20% OFF + Lifetime** · €1,200 → €960 · code `LIFETIME` | until Nov 30 |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | macOS, Windows, Linux | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | ♾️ **20% OFF + Lifetime** · €1,200 → €960 · code `LIFETIME` | until Nov 30 |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | macOS, Windows, Linux | Mac-compatible kernel exploitation and C2 with 100+ LPE exploits and Ring-0 tooling. | ♾️ **20% OFF + Lifetime** · €1,200 → €960 · code `LIFETIME` | until Nov 30 |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | macOS, Windows, Linux | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | **Black Friday bundle €4,000** · no code | until Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
