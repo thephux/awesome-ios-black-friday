@@ -121,6 +121,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Sip](https://sipapp.io/pricing/) | macOS | Modern color picker for Mac that brings ease to color organization and team collaboration. | 💸 **50% OFF** · code `BLACKFRIDAY26` | Nov 27 – Dec 1 |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
+| [RSSTube](https://apps.apple.com/app/id6828141995) | iOS, iPadOS | Follow YouTube channels by RSS: only the channels you chose, newest first, with no algorithm and no account. | 💸 ♾️ **64% OFF Premium Lifetime** · $24.99 → $8.99 · no code | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
