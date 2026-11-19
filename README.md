@@ -121,6 +121,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Sip](https://sipapp.io/pricing/) | macOS | Modern color picker for Mac that brings ease to color organization and team collaboration. | 💸 **50% OFF** · code `BLACKFRIDAY26` | Nov 27 – Dec 1 |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
+| [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) | iOS | Wraps a line of text around the person, pet or food in your photo or video, on-device, with text that can slip behind the subject. | 💸 ♾️ **53% OFF Lifetime** · $14.99 → $6.99 · no code | Nov 26 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
