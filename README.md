@@ -43,6 +43,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Pretty Progress](https://prettyprogress.app/download) | iOS | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
+| [Trophikos](https://apps.apple.com/us/app/trophikos/id6773508921) | iOS, iPadOS, watchOS, tvOS | Recipe and cocktail library with a cooking log, so you remember what you changed and what worked last time. | 💸 ♾️ **80% OFF Lifetime Premium** · $9.99 → $1.99 · no code | Nov 20 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
