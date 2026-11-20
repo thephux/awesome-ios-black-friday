@@ -81,6 +81,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Wick](https://appsbymo.app/wick/) | macOS | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | 💸 **50% OFF** · $15.99 → $7.99 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
+| [Paste](https://pasteapp.io/black-friday-2026) | iOS, macOS | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 💸 **50% OFF** first year of Annual · $29.99 → $14.99 · code `BLACKFRIDAY2026` | Nov 20 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
