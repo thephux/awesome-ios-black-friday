@@ -43,6 +43,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Pretty Progress](https://prettyprogress.app/download) | iOS | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
+| [Mic to Speaker: Microphone](https://apps.apple.com/app/id6751250098) | iOS | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | ♾️ **40% OFF Lifetime** · $49.99 → $29.99 · no code | Nov 21 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
