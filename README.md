@@ -83,6 +83,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | iOS | Capture temporary photo reminders in a separate gallery and pin the ones you want to keep. | 💸 ♾️ **50% OFF Lifetime** · US$14.99 → US$7.49 · code `BFCM26` | until Dec 1 (PT) |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -126,6 +127,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
 | [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) | iOS | Wraps a line of text around the person, pet or food in your photo or video, on-device, with text that can slip behind the subject. | 💸 ♾️ **53% OFF Lifetime** · $14.99 → $6.99 · no code | Nov 26 – Dec 1 |
+| [Deletti](https://deletti.app/#black-friday) | iOS | See exact file sizes and review your largest photos and videos first, then swipe to keep or trash. | 💸 ♾️ **50% OFF Single Lifetime** · US$17.99 → US$8.99 · code `BFCM26` | until Dec 1 (PT) |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +170,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | iOS | Keep selected photos and videos in a PIN-protected vault disguised as a calculator, converter, or puzzle. | 💸 ♾️ **50% OFF Pro Lifetime** · US$29.99 → US$14.99 · code `BFCM26` | until Dec 1 (PT) |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
