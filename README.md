@@ -44,6 +44,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
 | [Mic to Speaker: Microphone](https://apps.apple.com/app/id6751250098) | iOS | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | ♾️ **40% OFF Lifetime** · $49.99 → $29.99 · no code | Nov 21 – Nov 30 |
+| [Recipe Organizer by Vima](https://apps.apple.com/us/app/recipe-organizer-by-vima/id6757971278) | iOS, iPadOS | Save recipes from websites, YouTube videos and photos of recipe cards, then plan meals and make a grocery list. | ♾️ **Lifetime Premium $9.99** · Premium yearly $29.99 → $9.99 one time · no code | Nov 22 – Dec 2 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
