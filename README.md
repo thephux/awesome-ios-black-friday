@@ -44,6 +44,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
 | [Mic to Speaker: Microphone](https://apps.apple.com/app/id6751250098) | iOS | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | ♾️ **40% OFF Lifetime** · $49.99 → $29.99 · no code | Nov 21 – Nov 30 |
+| [Until Nxt: Countdown & Quotes](https://apps.apple.com/app/id6771397857) | iOS | Countdowns to the events that matter, with Home Screen widgets, photo backgrounds and a daily quote. | 💸 **60% OFF the first year of Yearly** · $14.99 → $5.99 · code `UNTILNXTBF26` ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6771397857&code=UNTILNXTBF26); new subscribers, free week kept) | Nov 23 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -83,6 +84,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [DailyMate: Goals & Rewards](https://apps.apple.com/app/id6781577660) | iOS, iPadOS | Daily planner where ticking off a task moves a goal forward: tasks, habits, a focus timer and rewards, stored on your device. | 💸 **60% OFF the first year of Yearly** · $24.99 → $9.99 · code `DAILYMATEBF26` ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6781577660&code=DAILYMATEBF26); new subscribers, 7-day trial kept) | Nov 23 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
