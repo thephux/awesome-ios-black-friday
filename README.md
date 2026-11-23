@@ -178,6 +178,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | iOS, iPadOS | Play 14 chess coaches that explain every move, and find the mistakes you keep making in your Lichess and Chess.com games, with… | **40% OFF Full** · $4.99 → $2.99 | until Nov 30 |
 | [Puzelo](https://apps.apple.com/app/id6807589117) | iOS, iPadOS | Seven kinds of logic puzzles in one app for iPhone and iPad (Sudoku, Nonogram, Kakuro, Binary, Futoshiki, Skyscrapers,… | 💸 ♾️ **50% OFF Puzelo Complete** · $17.99 → $8.99 · no code | Nov 27 – Dec 1 |
 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | iOS | Endless driving game for iPhone where you steer the road and dodge obstacles. | 💸 **50% OFF** · no code | Nov 24 – Nov 30 |
+| [One More Chance: Block Puzzle](https://apps.apple.com/app/id6820129103) | iOS, iPadOS | Block puzzle to play solo or together: pass one device around or play nearby offline. 2 players free, up to 6 with Premium. | ♾️ **40% OFF Premium** · $4.99 → $2.99 · no code | Nov 23 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
