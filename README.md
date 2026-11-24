@@ -140,6 +140,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Par](https://par.sawirstudio.com/black-friday-2026/) | iOS, iPadOS | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the… | 💸 ♾️ **60% OFF** · $4.99 → $1.99 · no code | Nov 26 – Nov 30 |
 | [SubManager](https://submanager.app) | iOS, macOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 **50% OFF** | Nov 27 – Nov 30 |
 | [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | iOS, macOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages. | **35% OFF first year** · code `BLACKFRIDAY35` | Nov 8 – Nov 30 |
+| [SubsDay](https://subsday.appps.od.ua/) | iOS, iPadOS, macOS | Track subscriptions, upcoming payments, and renewal reminders in one calendar. | ♾️ **About 40% OFF Lifetime** · Single $19.99 → $11.99 · code `BLKFR2026`; Family $26.99 → $15.99 · code `BLKFR2026FAMILY` | Nov 15 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
