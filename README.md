@@ -214,6 +214,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [WheelClick](https://wheelclick.app/) | macOS | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. | 💸 ♾️ **50% OFF** · no code | Nov 20 – Dec 3 |
 | [Wishbar](https://wishbar.app/black-friday) | macOS | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar. | 💸 ♾️ **50% OFF** · $39 → $19 · no code | until Dec 7 |
 | [SiftMac](https://siftmac.com) | macOS | Disk cleaner that says, for every item, whether it comes back before deleting it, with a 7-day undo. | 💸 ♾️ **53% OFF** · $19 → $9 (founding price $12 outside the sale) · no code | Nov 27 – Nov 30 |
+| [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | macOS | Back up IMAP mail to your own storage and search archived messages offline. | ♾️ **30% OFF one-time purchase** · $49.99 → $34.99 · code `BLACKFRIDAY2026` | Nov 25 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
