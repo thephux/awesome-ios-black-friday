@@ -101,6 +101,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | iOS, watchOS | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple. | ♾️ **40% OFF Lifetime** · $39.99 → $23.99 · code `BFCM26` | Nov 2 – Dec 1 |
 | [Nutrify - AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iOS | Calorie and macro tracker: snap a photo of a meal to log its calories and macros. | 💸 ♾️ **60% OFF first year of Yearly** · $49.99 → $19.99 · Lifetime $99 → $79 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
 | [Nomu - Intermittent Fasting](https://apps.apple.com/app/id6759592087) | iOS, watchOS | Fasting timer for 16:8, 18:6, OMAD and extended fasts, started with one tap. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 ♾️ **57% OFF first year of Yearly** · $29.99 → $12.99 · Lifetime $49.99 → $29.99 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
+| [Undersleep](https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=tp&mt=8) | iOS, watchOS | Shows how many hours behind your sleep goal you are over the last two weeks, from the sleep already in Apple Health. | 💸 ♾ **50% OFF one-time purchase** · $24.99 → $12.49 · no code (applied in the app) | Nov 25 – Dec 7 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
