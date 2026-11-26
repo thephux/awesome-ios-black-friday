@@ -83,6 +83,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [Voice Notes AI – EzyTranscribe](https://apps.apple.com/app/id6754922813) | iOS, iPadOS | Offline speech-to-text note-taking. | 💸 ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -140,6 +141,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Par](https://par.sawirstudio.com/black-friday-2026/) | iOS, iPadOS | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the… | 💸 ♾️ **60% OFF** · $4.99 → $1.99 · no code | Nov 26 – Nov 30 |
 | [SubManager](https://submanager.app) | iOS, macOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 **50% OFF** | Nov 27 – Nov 30 |
 | [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | iOS, macOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages. | **35% OFF first year** · code `BLACKFRIDAY35` | Nov 8 – Nov 30 |
+| [Budget Planner – GrowStash](https://apps.apple.com/app/id6757188759) | iOS, iPadOS | Track savings and spending. | 💸 ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +170,10 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [Bookmark Links: PostPocket](https://apps.apple.com/app/id6670723615) | iOS, iPadOS | Save links and content to read later. |  ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
+| [HEIC to JPG – Pics2PDF](https://apps.apple.com/app/id6748744676) | iOS, iPadOS, macOS | Convert images to JPG, PNG or PDF. | 💸 ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
+| [Daily Checklist · To Do List](https://apps.apple.com/app/id6743703945) | iOS, iPadOS | Track routines, chores and tasks. | 💸 ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
+| [Subscription Tracker – SubCal](https://apps.apple.com/app/id6752016485) | iOS, iPadOS | Manage all your subscriptions in one calendar. | 💸 ♾️ **50% OFF Lifetime** · $9.99 → $4.99 · no code | Nov 26 – Dec 3 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
