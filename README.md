@@ -44,6 +44,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
 | [Mic to Speaker: Microphone](https://apps.apple.com/app/id6751250098) | iOS | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | ♾️ **40% OFF Lifetime** · $49.99 → $29.99 · no code | Nov 21 – Nov 30 |
+| [You Become: Daily Motivation](https://apps.apple.com/us/app/id6798391117) | iOS, iPadOS | Daily thoughts for who you want to become: choose where you want to grow and get one short, thoughtful idea each day, on iPhone and iPad. | 💸 **50% OFF Premium** · Yearly, first year $19.99 → $9.99 · code `BLACKWEEK` | Nov 22 – Nov 30 |
+| [MatchFlare: Live Football](https://apps.apple.com/us/app/id6775471221) | iOS, iPadOS | A fast, clean football app for iPhone and iPad: live scores, goal alerts, line-ups, tables and news from 60+ leagues and cups. No ads, no account. | 💸 ♾️ **50% OFF Premium Lifetime** · Lifetime $29.99 → $14.99 · Yearly, first year $7.99 → $3.99 · lifetime: no code; yearly: code `BLACKWEEK` | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -83,6 +85,9 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [My Nurse Shift Planner](https://apps.apple.com/us/app/id6764406102) | iOS, iPadOS | Shift calendar for nurses on iPhone and iPad: plan day, night and on-call shifts, track hours and estimate pay with night and weekend differentials. | 💸 **50% OFF Premium** · Yearly $29.99 → $14.99 · Monthly $5.99 → $2.99 · no code | Nov 22 – Nov 30 |
+| [My Work Shift Planner](https://apps.apple.com/us/app/id6769349635) | iOS, iPadOS | Shift calendar and pay tracker for any shift worker: plan day, night and rotating shifts, track hours and estimate pay across workplaces. | 💸 **50% OFF Premium** · Yearly $24.99 → $12.49 · Monthly $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
+| [ProScan PDF](https://apps.apple.com/us/app/id6752308731) | iOS, iPadOS | Private document scanner and PDF toolkit for iPhone and iPad: scan documents, receipts and notes, then organize, edit, sign and share PDFs. | 💸 **50% OFF Pro** · 12 months, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99 · no code | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -101,6 +106,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | iOS, watchOS | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple. | ♾️ **40% OFF Lifetime** · $39.99 → $23.99 · code `BFCM26` | Nov 2 – Dec 1 |
 | [Nutrify - AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iOS | Calorie and macro tracker: snap a photo of a meal to log its calories and macros. | 💸 ♾️ **60% OFF first year of Yearly** · $49.99 → $19.99 · Lifetime $99 → $79 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
 | [Nomu - Intermittent Fasting](https://apps.apple.com/app/id6759592087) | iOS, watchOS | Fasting timer for 16:8, 18:6, OMAD and extended fasts, started with one tap. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 ♾️ **57% OFF first year of Yearly** · $29.99 → $12.99 · Lifetime $49.99 → $29.99 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
+| [DosePlan: GLP-1 Peptide Tracker](https://apps.apple.com/us/app/id6782329639) | iOS, iPadOS | A simple, private tracker for your GLP-1 or peptide routine on iPhone and iPad: log every shot, see when the next one is due and track side effects. | 💸 **50% OFF Pro** · Yearly, first year $29.99 → $14.99 · Monthly, first 3 months $5.99 → $2.99 · yearly: code `BLACKWEEK`; monthly: no code | Nov 22 – Nov 30 |
+| [Water Fasting: Beyond](https://apps.apple.com/us/app/id6786837206) | iOS, iPadOS | A fasting tracker, water reminder and weight tracker for iPhone and iPad, built to help you prepare for, track and reflect on every fast. | 💸 **50% OFF Plus** · Yearly, first year $39.99 → $19.99 · Monthly, first 3 months $7.99 → $3.99 · yearly: code `BLACKWEEK`; monthly: no code | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -126,6 +133,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
 | [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) | iOS | Wraps a line of text around the person, pet or food in your photo or video, on-device, with text that can slip behind the subject. | 💸 ♾️ **53% OFF Lifetime** · $14.99 → $6.99 · no code | Nov 26 – Dec 1 |
+| [Eye Color Cam: Live Filters](https://apps.apple.com/us/app/id6752640752) | iOS, iPadOS | Try new eye colors live through your iPhone camera with eye tracking, transform a favorite photo, and take photos or videos with the effect. | 💸 **50% OFF Premium** · Yearly, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99 · no code | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +176,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [Viento - Minimal Weather](https://apps.apple.com/us/app/id6770246185) | iOS, iPadOS | A minimal weather app for iPhone and iPad: a beautiful forecast at a glance, without clutter, ads or complicated dashboards. | 💸 **50% OFF Viento+** · Yearly, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99 · no code | Nov 22 – Nov 30 |
+| [Dash Pal: GPS Speedometer](https://apps.apple.com/us/app/id6753625350) | iOS, iPadOS | Dashboard, speedometer and GPS trip tracker for iPhone and iPad, for driving, cycling, trains, flights, boats and walks. | 💸 ♾️ **50% OFF Lifetime** · Lifetime $7.99 → $3.99 · Yearly, first year $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -178,6 +188,12 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | iOS, iPadOS | Play 14 chess coaches that explain every move, and find the mistakes you keep making in your Lichess and Chess.com games, with… | **40% OFF Full** · $4.99 → $2.99 | until Nov 30 |
 | [Puzelo](https://apps.apple.com/app/id6807589117) | iOS, iPadOS | Seven kinds of logic puzzles in one app for iPhone and iPad (Sudoku, Nonogram, Kakuro, Binary, Futoshiki, Skyscrapers,… | 💸 ♾️ **50% OFF Puzelo Complete** · $17.99 → $8.99 · no code | Nov 27 – Dec 1 |
 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | iOS | Endless driving game for iPhone where you steer the road and dodge obstacles. | 💸 **50% OFF** · no code | Nov 24 – Nov 30 |
+| [Neura Rush: Brain Puzzle Games](https://apps.apple.com/us/app/id6746837300) | iOS, iPadOS | 24 quick mini games for memory, focus, speed, logic, math and words, led by Neura, a cheerful little guide. A short daily brain workout. | 💸 ♾️ **50% OFF Unlock All** · Unlock All (lifetime) $19.99 → $9.99 · Yearly, first year $14.99 → $7.49 · Unlock All: no code; yearly: code `BLACKWEEK` | Nov 22 – Nov 30 |
+| [Cyphre: Brain Puzzle Rings](https://apps.apple.com/us/app/id6748257455) | iOS, iPadOS | A glowing ring puzzle game for iPhone and iPad: spin the rings, match colors and symbols, and crack the vault at the center. | 💸 ♾️ **50% OFF Premium** · Premium (no ads, all themes) $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
+| [Pop Pop Aliens: Reflex Arcade](https://apps.apple.com/us/app/id6748736031) | iOS, iPadOS | A fast reflex arcade game for iPhone and iPad: aliens pop out of the craters, and you tap fast, keep your combo going and climb as high as you can. | 💸 ♾️ **50% OFF Premium** · Premium $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
+| [Pop Pop Piggies: Animal Puzzle](https://apps.apple.com/us/app/id6748965914) | iOS, iPadOS | A cute, cozy animal puzzle for iPhone and iPad: tap two or more matching animals and pop! New friends drop in for the next move. | 💸 ♾️ **50% OFF Premium** · Premium $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
+| [Pop Pop Fruits: Tap Tap Arcade](https://apps.apple.com/us/app/id6749312011) | iOS, iPadOS | The cutest fruit stand in town: customers line up with their orders, fruits pop out of the crates, and you tap exactly what each one asked for. | 💸 ♾️ **50% OFF Premium** · Premium $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
+| [Bouncy Fruits: Fruit Merge](https://apps.apple.com/us/app/id6751171271) | iOS, iPadOS | Drop the fruits, merge two of a kind and grow them all the way to the watermelon. When the jar gets crowded, the trampoline lets you hit BOUNCE. | 💸 ♾️ **50% OFF Remove Ads** · Remove Ads $4.99 → $2.49 · no code | Nov 22 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
