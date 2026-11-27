@@ -4,7 +4,7 @@
 
 The big Black Friday lists mix SaaS, developer tools, courses and templates. This one is only indie apps for Apple platforms, so you can find a good app deal without scrolling past everything else.
 
-> **117 deals** · Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Each deal has its own dates, so check before you buy.
+> **125 deals** · Black Friday is **Nov 27, 2026**, Cyber Monday is **Nov 30, 2026**. Each deal has its own dates, so check before you buy.
 
 **Legend:** 💸 50% off or more · ♾️ lifetime / one-time purchase
 
@@ -13,13 +13,13 @@ Got an indie Apple app with a Black Friday deal? [Add it with a pull request](#-
 ## Contents
 
 - [🗓️ 2026](#️-2026)
-  - [🏠 Lifestyle & Social](#-lifestyle--social) `10`
-  - [✅ Productivity](#-productivity) `31`
-  - [💪 Health & Fitness](#-health--fitness) `9`
+  - [🏠 Lifestyle & Social](#-lifestyle--social) `11`
+  - [✅ Productivity](#-productivity) `34`
+  - [💪 Health & Fitness](#-health--fitness) `11`
   - [📸 Photo & Video](#-photo--video) `17`
   - [💰 Finance](#-finance) `7`
-  - [📚 Education & Reading](#-education--reading) `2`
-  - [🛠️ Utilities](#️-utilities) `10`
+  - [📚 Education & Reading](#-education--reading) `3`
+  - [🛠️ Utilities](#️-utilities) `11`
   - [🎮 Games](#-games) `3`
   - [💻 Mac Utilities & Menu Bar](#-mac-utilities--menu-bar) `28`
 - [➕ How to add your deal](#-how-to-add-your-deal)
@@ -44,6 +44,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SinceWhen: Days Since Tracker](https://devapt.com/sincewhen) | iOS | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. | 💸 ♾️ **50% OFF** · $59.99 → $29.99 · no code | Nov 20 – Dec 1 |
 | [YumPal](https://elevenapril.com/yumpal) | iOS | Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | ♾️ **37% OFF** · $29.99 → $18.99 · code `BLACKFRIDAY` | until Nov 30 |
 | [Mic to Speaker: Microphone](https://apps.apple.com/app/id6751250098) | iOS | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | ♾️ **40% OFF Lifetime** · $49.99 → $29.99 · no code | Nov 21 – Nov 30 |
+| [Hantam: Bead & Cross Stitch](https://apps.apple.com/us/app/hantam-bead-cross-stitch/id6449769987) | iOS | Turns any photo into a fuse bead or cross-stitch pattern matched to colors you can buy. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -83,6 +84,9 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [Clip Keyboard: Paste Snippets](https://apps.apple.com/us/app/clip-keyboard-paste-snippets/id1543660502) | iOS | Keyboard for text you type often, like addresses and account numbers, pasted with one tap. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
+| [Rereminder: Presentation Timer](https://apps.apple.com/us/app/rereminder-presentation-timer/id6752551268) | iOS | Timer for talks and meetings that warns you at set points before time runs out. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
+| [Goldweek - PTO and Vacation](https://apps.apple.com/us/app/goldweek-pto-and-vacation/id6755983135) | iOS | Pairs public holidays with weekends to show which days off stretch your PTO the furthest. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -101,6 +105,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | iOS, watchOS | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple. | ♾️ **40% OFF Lifetime** · $39.99 → $23.99 · code `BFCM26` | Nov 2 – Dec 1 |
 | [Nutrify - AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iOS | Calorie and macro tracker: snap a photo of a meal to log its calories and macros. | 💸 ♾️ **60% OFF first year of Yearly** · $49.99 → $19.99 · Lifetime $99 → $79 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
 | [Nomu - Intermittent Fasting](https://apps.apple.com/app/id6759592087) | iOS, watchOS | Fasting timer for 16:8, 18:6, OMAD and extended fasts, started with one tap. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 ♾️ **57% OFF first year of Yearly** · $29.99 → $12.99 · Lifetime $49.99 → $29.99 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
+| [Sekki: Photo Food Diary](https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924) | iOS | Photo food diary: take one photo before you eat and the meal is logged. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
+| [Dalbit: Sleep Sounds & Noise](https://apps.apple.com/us/app/dalbit-sleep-sounds-noise/id1626715109) | iOS | Sleep sounds you can layer, like rain under piano, so you stop searching for something to fall asleep to. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -150,6 +156,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Book Reading Habit](https://apps.apple.com/app/id6742913266) | iOS, iPadOS, macOS | Reading tracker for iPhone, iPad and Mac: time sessions, keep a streak and save notes. | 💸 ♾️ **55% OFF** · $44.99 → $19.99 · no code | until Nov 30 |
 | [Dictionaries](https://dictionaries.io/) | macOS | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 **50% OFF** · code `BF26` | Nov 4 – Dec 3 |
 | [Erla](https://erla.app/black-friday) | iOS, iPadOS | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages. | 💸 **70% OFF the first year of Erla PRO** · $59.99 → $18 · code `BLACKFRIDAY` · 7 days free first, new subscribers, redeem via erla.app/black-friday | Nov 12 – Nov 30 |
+| [StaffSinger: Sight-Reading](https://apps.apple.com/us/app/staffsinger-sight-reading/id6779262832) | iOS | Copy a passage onto a staff and hear it played back with the exact rhythm and pitch. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +175,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [Not My Tempo: Voice Metronome](https://apps.apple.com/us/app/not-my-tempo-voice-metronome/id6781537149) | iOS | Metronome you run by voice: say start or faster without taking your hands off the instrument. | 💸 **75%–80% OFF first subscription period** · no code (new subscribers, renews at regular price) | Nov 27 – Dec 4 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
