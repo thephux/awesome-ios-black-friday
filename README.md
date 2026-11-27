@@ -150,6 +150,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Book Reading Habit](https://apps.apple.com/app/id6742913266) | iOS, iPadOS, macOS | Reading tracker for iPhone, iPad and Mac: time sessions, keep a streak and save notes. | 💸 ♾️ **55% OFF** · $44.99 → $19.99 · no code | until Nov 30 |
 | [Dictionaries](https://dictionaries.io/) | macOS | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 **50% OFF** · code `BF26` | Nov 4 – Dec 3 |
 | [Erla](https://erla.app/black-friday) | iOS, iPadOS | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages. | 💸 **70% OFF the first year of Erla PRO** · $59.99 → $18 · code `BLACKFRIDAY` · 7 days free first, new subscribers, redeem via erla.app/black-friday | Nov 12 – Nov 30 |
+| [Aloud](https://aloudapp.app/black-friday/) | macOS | Native Mac app that reads selected text, PDFs, screenshots and web articles out loud. | ♾️ **30% OFF** · $19 → $13.30 · code `BF30` | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
