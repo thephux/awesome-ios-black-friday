@@ -101,6 +101,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | iOS, watchOS | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple. | ♾️ **40% OFF Lifetime** · $39.99 → $23.99 · code `BFCM26` | Nov 2 – Dec 1 |
 | [Nutrify - AI Calorie Tracker](https://apps.apple.com/app/id6737628384) | iOS | Calorie and macro tracker: snap a photo of a meal to log its calories and macros. | 💸 ♾️ **60% OFF first year of Yearly** · $49.99 → $19.99 · Lifetime $99 → $79 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
 | [Nomu - Intermittent Fasting](https://apps.apple.com/app/id6759592087) | iOS, watchOS | Fasting timer for 16:8, 18:6, OMAD and extended fasts, started with one tap. From the team behind [Nutrify](https://nutrifytracker.com), an AI calorie tracker. | 💸 ♾️ **57% OFF first year of Yearly** · $29.99 → $12.99 · Lifetime $49.99 → $29.99 · no code (new subscribers, applied in the app) | Nov 20 – Dec 30 |
+| [BabyAnalytic](https://apps.apple.com/app/id6824100558) | iOS, watchOS | Baby tracker: feeds, sleep and diapers in one tap, timers, charts, a pediatrician report and partner sharing through iCloud. | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -126,6 +127,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
 | [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) | iOS | Wraps a line of text around the person, pet or food in your photo or video, on-device, with text that can slip behind the subject. | 💸 ♾️ **53% OFF Lifetime** · $14.99 → $6.99 · no code | Nov 26 – Dec 1 |
+| [Rindraw](https://apps.apple.com/app/id6818370032) | iOS, iPadOS, macOS | Drawing, painting and animation app; strokes stay editable, and it opens .procreate and .psd files with their layers. | 💸 ♾️ **50% OFF** · $12.99 → $6.49 · no code | Nov 23 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -140,6 +142,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Par](https://par.sawirstudio.com/black-friday-2026/) | iOS, iPadOS | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the… | 💸 ♾️ **60% OFF** · $4.99 → $1.99 · no code | Nov 26 – Nov 30 |
 | [SubManager](https://submanager.app) | iOS, macOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 **50% OFF** | Nov 27 – Nov 30 |
 | [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | iOS, macOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages. | **35% OFF first year** · code `BLACKFRIDAY35` | Nov 8 – Nov 30 |
+| [Par](https://apps.apple.com/app/id6824515889) | iOS, iPadOS | RPN financial calculator: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the stack always in sight. | 💸 ♾️ **60% OFF** · $4.99 → $1.99 · no code | Nov 26 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -150,6 +153,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Book Reading Habit](https://apps.apple.com/app/id6742913266) | iOS, iPadOS, macOS | Reading tracker for iPhone, iPad and Mac: time sessions, keep a streak and save notes. | 💸 ♾️ **55% OFF** · $44.99 → $19.99 · no code | until Nov 30 |
 | [Dictionaries](https://dictionaries.io/) | macOS | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 **50% OFF** · code `BF26` | Nov 4 – Dec 3 |
 | [Erla](https://erla.app/black-friday) | iOS, iPadOS | Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages. | 💸 **70% OFF the first year of Erla PRO** · $59.99 → $18 · code `BLACKFRIDAY` · 7 days free first, new subscribers, redeem via erla.app/black-friday | Nov 12 – Nov 30 |
+| [Math Daily](https://apps.apple.com/app/id6817184750) | iOS, iPadOS | Daily mental math games: short rounds that keep arithmetic sharp, with streaks and progress. | 💸 **50% OFF first year of Pro Yearly** · $29.99 → $14.99 · new subscribers · no code | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +172,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [CleanStorage](https://apps.apple.com/app/id6823254083) | iOS | Finds duplicate photos, large videos and files, and repeated contacts on your iPhone, checked on the device, then frees up space. | ♾️ **37% OFF CleanStorage Pro** · $7.99 → $4.99 · no code | Nov 27 – Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -178,6 +183,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | iOS, iPadOS | Play 14 chess coaches that explain every move, and find the mistakes you keep making in your Lichess and Chess.com games, with… | **40% OFF Full** · $4.99 → $2.99 | until Nov 30 |
 | [Puzelo](https://apps.apple.com/app/id6807589117) | iOS, iPadOS | Seven kinds of logic puzzles in one app for iPhone and iPad (Sudoku, Nonogram, Kakuro, Binary, Futoshiki, Skyscrapers,… | 💸 ♾️ **50% OFF Puzelo Complete** · $17.99 → $8.99 · no code | Nov 27 – Dec 1 |
 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | iOS | Endless driving game for iPhone where you steer the road and dodge obstacles. | 💸 **50% OFF** · no code | Nov 24 – Nov 30 |
+| [Squishu](https://apps.apple.com/app/id6821216303) | iOS, iPadOS, watchOS | Cozy dumpling-squishing game: beat the boss before the steam runs out, and play the same 15-second daily round as everyone else. | ♾️ **40% OFF Squishu+** · $4.99 → $2.99 · no code | Nov 27 – Dec 1 |
+| [Pawlitics](https://apps.apple.com/app/id6821216840) | iOS, iPadOS | Cozy cartoon politics game: govern a town of animals, balance the budget, pass bills past the council and win re-election. | ♾️ **40% OFF Full Game** · $4.99 → $2.99 · no code | Nov 26 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
