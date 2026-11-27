@@ -83,6 +83,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Y-Pod](https://www.y-pod.app/#black-friday) | iOS, iPadOS | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | 💸 ♾️ **50% OFF Pro Lifetime** · $99.99 → $49.99 | Nov 23 – Nov 30 |
 | [Yonder](https://appsbymo.app/yonder/) | iOS, macOS | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for… | 💸 **50% OFF** · $6.99 → $3.49 · code `BLACKFRIDAY` | Nov 9 – Dec 1 |
 | [PureScribe](https://apps.apple.com/app/id6797195935) | iOS, iPadOS, macOS | On-device speech to text: drop in an interview, lecture or meeting and get a timestamped transcript, with nothing uploaded. | 💸 ♾️ **50% OFF Pro (one-time purchase)** · $9.99 → $4.99 · no code | Nov 27 – Dec 1 |
+| [Spiik](https://spiik.io/promos/BLACKFRIDAY26) | iOS, iPadOS, macOS | AI voice recorder that transcribes meetings and lectures in 100+ languages and turns them into AI notes. · [App Store](https://apps.apple.com/app/id6451387537) | **35% OFF** first year of Pro Yearly · $59.99 → $38.99 · code `BLACKFRIDAY26` | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -126,6 +127,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | macOS | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and… | 💸 ♾️ **50% OFF** · $79 → $39.50 · code `BLACKFRIDAY26` | until Dec 2 |
 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 💸 ♾️ **50% OFF Lifetime** · $39.99 → $19.99 · no code | until Nov 30 |
 | [Wrapt: Text Around Photos](https://apps.apple.com/app/id6818696468) | iOS | Wraps a line of text around the person, pet or food in your photo or video, on-device, with text that can slip behind the subject. | 💸 ♾️ **53% OFF Lifetime** · $14.99 → $6.99 · no code | Nov 26 – Dec 1 |
+| [VidCap](https://vidcap.app/promos/BLACKFRIDAY26) | iOS, iPadOS, macOS | Automatic captions and subtitles for your videos, styled for TikTok, Reels and Shorts. · [App Store](https://apps.apple.com/app/id1620725834) | **35% OFF** first year of Pro Yearly · $59.99 → $38.99 · code `BLACKFRIDAY26` | Nov 27 – Dec 1 |
+| [Teleprompter AI](https://teleprompter.so/promos/BLACKFRIDAY26) | iOS, iPadOS, macOS | Teleprompter that scrolls your script while you record and follows your voice. · [App Store](https://apps.apple.com/app/id6463623914) | **35% OFF** first year of Pro Yearly · $59.99 → $38.99 · code `BLACKFRIDAY26` | Nov 27 – Dec 1 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
