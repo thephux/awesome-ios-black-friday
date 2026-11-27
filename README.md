@@ -140,6 +140,8 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Par](https://par.sawirstudio.com/black-friday-2026/) | iOS, iPadOS | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the… | 💸 ♾️ **60% OFF** · $4.99 → $1.99 · no code | Nov 26 – Nov 30 |
 | [SubManager](https://submanager.app) | iOS, macOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 **50% OFF** | Nov 27 – Nov 30 |
 | [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | iOS, macOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages. | **35% OFF first year** · code `BLACKFRIDAY35` | Nov 8 – Nov 30 |
+| [Goaley: Savings Goal Tracker](https://apps.apple.com/us/app/goaley-savings-goal-tracker/id6448198722) | iOS, iPadOS | Savings goals with a plan you can follow: what to save next, a dated schedule, reminders and widgets. | 💸 ♾️ **50% OFF Lifetime Pro** · $59.99 → $29.99 · no code | Nov 27 – Dec 6 |
+| [Windfall - Expense Tracker](https://apps.apple.com/us/app/windfall-expense-tracker/id6479275107) | iOS, iPadOS, watchOS | Log spending by typing a sentence, asking Siri or scanning a receipt, with budgets and recurring payments. | 💸 ♾️ **50% OFF Lifetime Pro** · $59.99 → $29.99 · code `BLACKFRIDAY50` ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6479275107&code=BLACKFRIDAY50)), first 500 | until Nov 30 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -168,6 +170,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192) | macOS | Duplicate file finder for Mac and external drives. | 💸 ♾️ **50% OFF** · $14.99 → $7.49 · no code | Nov 24 – Dec 1 |
 | [WebWatch](https://apps.apple.com/app/id1610565796) | iOS, iPadOS | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | ♾️ **40% OFF Pro Lifetime** · $56.99 → $34.00 · no code | Nov 25 – Dec 1 |
 | [Kipzy](https://apps.apple.com/app/id6821198824) | iOS, iPadOS | Fast, private web browser with a built-in ad, tracker and popup blocker, private tabs and offline video saving. · [Website](https://kipzy.app) | 💸 ♾️ **50% OFF Pro Lifetime** · $49.99 → $24.99 · no code | Nov 13 – Nov 30 |
+| [Pass Maker - Wallet Pass](https://apps.apple.com/us/app/pass-maker-wallet-pass/id6469374653) | iOS, iPadOS | Create Apple Wallet passes (tickets, loyalty cards, coupons) from a photo, a prompt, a template or a CSV. | 💸 ♾️ **50% OFF Lifetime Pro** · $39.99 → $19.99 · no code | Nov 28 – Dec 6 |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
